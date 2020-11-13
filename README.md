@@ -76,8 +76,13 @@ openssl_1  | C = US, O = My Company, CN = My Company Name
 openssl_1  | error 23 at 1 depth lookup: certificate revoked
 openssl_1  | error ee.pem: verification failed
 openssl-env_openssl_1 exited with code 2
-
 ```
+
+# Contributing
+
+Any input from the community is welcome!
+
+Feel free to open a new issue to discuss the new solution or request features or cases that you would like to be tested.
 
 # Disclaimer
 
