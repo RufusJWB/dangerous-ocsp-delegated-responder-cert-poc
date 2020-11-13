@@ -1,14 +1,11 @@
 # Proof-of-concept new solution to the curious case of the Dangerous Delegated OCSP Responder Certificate
 
 This repository contains material related to the blog post published on the [Kudelski Research blog](https://research.kudelskisecurity.com/?p=15180) 
-about the curious case of the dangerous delegated OCSP responder certificate.
+about the `curious case of the dangerous delegated OCSP responder certificate`.
 
 # Introduction
 
-The main script generates a 4-level certificate hierarchy that reproduces the initial situation 
-of the dangerous delegated OCSP responder certificate problem (see diagram below).
-Then it fixes the certificate hierarchy using the new solution described in the blog post 
-and in the attached .pdf document (see `doc` directory).
+The main script generates a 4-level certificate hierarchy that reproduces the initial situation of the dangerous delegated OCSP responder certificate problem (see diagram below).Then it fixes the certificate hierarchy using the new solution described in the blog post and in the attached .pdf document (see `doc` directory).
 
 The main script is written in Python and is available at `verifier-poc/main.py`.
 
@@ -86,8 +83,7 @@ Feel free to open a new issue to discuss the new solution or request features or
 
 # Disclaimer
 
-This proof-of-concept only tests the technical feasibility of the new solution with OpenSSL
-and should not be considered as a hard proof. It is present as an illustrative purpose.
+This proof-of-concept only tests the technical feasibility of the new solution with OpenSSL and should not be considered as a hard proof. It is present as an illustrative purpose.
 
 # License and Copyright
 
