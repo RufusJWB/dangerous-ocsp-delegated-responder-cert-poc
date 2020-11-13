@@ -88,3 +88,13 @@ Feel free to open a new issue to discuss the new solution or request features or
 
 This proof-of-concept only tests the technical feasibility of the new solution with OpenSSL
 and should not be considered as a hard proof. It is present as an illustrative purpose.
+
+# License and Copyright
+
+Copyright(c) 2020 Nagravision SA.
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License version 3 as published by the Free Software Foundation.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program. If not, see http://www.gnu.org/licenses/.
